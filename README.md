@@ -1,18 +1,18 @@
-# 📱 SpendWise – Personal Finance Tracker (Android App)
+#  SpendWise – Personal Finance Tracker (Android App)
 
 SpendWise is a modern personal finance management app built using **Kotlin**, **MVVM architecture**, **Room Database**, and **Material Design 3**.  
 It helps users track daily expenses, manage budgets, set savings goals, and visualize spending patterns — all in a clean and user-friendly UI with full **Light/Dark Mode** support.
 
 ---
 
-## ✨ Features
+##  Features
 
-### 🔐 Authentication
+###  Authentication
 - Welcome, Login, Register, Forgot Password, and Reset Password screens  
 - Email + password validation  
 - Secure Logout functionality that clears user session
 
-### 💸 Transactions Management
+###  Transactions Management
 - Add Income & Expense transactions  
 - Categories via dropdown  
 - Date picker for accurate tracking  
@@ -20,19 +20,19 @@ It helps users track daily expenses, manage budgets, set savings goals, and visu
 - “Latest Transactions” widget on Dashboard  
 - Edit & Delete actions per transaction
 
-### 📊 Dashboard & Insights
+###  Dashboard & Insights
 - Total income vs expenses  
 - Recent transactions  
 - Category-based spending visualization  
 - Material 3 card layout  
 - Responsive and intuitive UI
 
-### 📁 Categories
+###  Categories
 - Add custom categories  
 - Integrated seamlessly with Transactions & Budgets  
 - Stored in Room Database
 
-### 📅 Budgets
+###  Budgets
 - Create monthly budgets per category  
 - Auto-calculates:
   - Spent  
@@ -40,18 +40,18 @@ It helps users track daily expenses, manage budgets, set savings goals, and visu
   - Utilization percentage  
 - Updates live when transactions are added
 
-### 🎯 Savings Goals
+###  Savings Goals
 - Add goals with target amounts  
 - Visual progress with progress bars  
 - Tap goal → add saved amount  
 - Long press → delete goal
 
-### 🌓 Theme Support
+###  Theme Support
 - Full **Dark Mode** using Material Design 3 dynamic surfaces  
 - Settings toggle to switch theme  
 - All screens fully theme-aware
 
-### 🧭 Navigation
+###  Navigation
 - Jetpack Navigation Component  
 - Bottom Navigation with:
   - Home
@@ -62,7 +62,7 @@ It helps users track daily expenses, manage budgets, set savings goals, and visu
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Languages & Frameworks
 - Kotlin  
@@ -84,7 +84,7 @@ It helps users track daily expenses, manage budgets, set savings goals, and visu
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 SpendWise/
 │
