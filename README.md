@@ -84,29 +84,30 @@ It helps users track daily expenses, manage budgets, set savings goals, and visu
 
 ---
 
-##  Project Structure
+## Project Structure
 
+```text
 SpendWise/
 │
 ├── data/
-│ ├── dao/
-│ ├── entity/
-│ ├── repository/
-│ └── AppDatabase.kt
+│   ├── dao/
+│   ├── entity/
+│   ├── repository/
+│   └── AppDatabase.kt
 │
 ├── ui/
-│ ├── dashboard/
-│ ├── transactions/
-│ ├── budgets/
-│ ├── goals/
-│ ├── settings/
-│ └── authentication/
+│   ├── dashboard/
+│   ├── transactions/
+│   ├── budgets/
+│   ├── goals/
+│   ├── settings/
+│   └── authentication/
 │
 ├── viewmodel/
 │
 ├── res/
-│ ├── layout/
-│ ├── values/
-│ └── navigation/
+│   ├── layout/
+│   ├── values/
+│   └── navigation/
 │
 └── MainActivity.kt
